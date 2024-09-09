@@ -1,0 +1,9 @@
+opencv-python-headless
+numpy
+matplotlib
+Flask
+keras==2.8.0
+scikit-learn
+seaborn
+tensorflow
+Flask-Caching
